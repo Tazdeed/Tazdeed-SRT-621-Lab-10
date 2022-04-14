@@ -1,0 +1,28 @@
+a { 
+    text-decoration: none;
+    color: inherit;
+}
+#title {
+    text-align: center;
+    color: lightgreen;
+}
+
+#black {
+    position: relative;
+    text-align: center;
+}
+
+table {
+    background-color: lightgrey;
+    padding: 10px;
+    border-spacing: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+
+td {
+    background-color: white;
+    padding: 20px;
+}
